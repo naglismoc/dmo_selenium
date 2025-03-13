@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-
 class ElentaTests(unittest.TestCase):
 
     def setUp(self):
